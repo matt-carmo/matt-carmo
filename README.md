@@ -1,12 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m searching for job
-- 🌱 I’m currently learning Html, Css, JavaScript
-
-- 👯 I’m looking to collaborate on Front-End
-- 🤔 I’m looking for help with JavaScript
-- 💬 web developer and curious student
-- 📫 How to reach me: www.linkedin.com/in/matt-carmo
+Hi there 👋
 
 <div align="center">
   <a href="https://github.com/matt-carmo">
