@@ -31,5 +31,9 @@ Hi there 👋
             alt="matt-Instagram" />
     </a>
 </div>
+ 
+<div>
   
-    ![Snake animation](https://github.com/matt-carmo/matt-carmo/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/matt-carmo/matt-carmo/blob/output/github-contribution-grid-snake.svg)  
+  
+</div>
