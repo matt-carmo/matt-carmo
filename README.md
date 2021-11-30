@@ -26,7 +26,7 @@ Hi there 👋
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
             alt="matt-Whatsapp" />
     </a>
-      <a href="https://wwww.instagram.com/matt.theus">
+      <a href="https://www.instagram.com/matt.theus">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             alt="matt-Instagram" />
     </a>
